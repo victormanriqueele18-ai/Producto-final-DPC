@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Piensa antes de publicar o comentar</title>
+
+    <style>
+        body {
+            margin: 0;
+        }
+
+        header, main, footer {
+            background-color: black;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        img {
+            width: 100%;
+            max-width: 500px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<header>
+  
+</header>
+
+<main>
+    <img src="https://i.imgur.com/7JvtQ0r.jpeg" alt="Piensa antes de publicar o comentar">
+</main>
+
+<footer>
+</footer>
+
+</body>
+
+</html>
